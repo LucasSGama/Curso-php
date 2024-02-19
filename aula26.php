@@ -1,0 +1,1 @@
+A funçãode email propria do PHP é uma merda e não funciona então pulei essa aula :)
